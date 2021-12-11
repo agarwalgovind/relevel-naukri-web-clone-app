@@ -1,0 +1,36 @@
+[
+  {
+    "id": 52,
+    "rec": "20 Recomended Jobs",
+    "name": "Harivara",
+    "desc": "Your Vedic Partner !",
+    "employees": "11-50 employees",
+    "image": "naukri/harihara.png",
+    "job": "React & Next JS Developer with 1-2+ Yrs Exp.",
+    "location": "Bengaluru",
+    "salaryMin": 8,
+    "salaryMax": 18
+  },
+  {
+    "id": 53,
+    "name": "Flyo",
+    "desc": "Instant delivery platform for premium essentials",
+    "employees": "1-10 employees",
+    "image": "naukri/flyo.png",
+    "job": "Part time: Full Stack Engineer",
+    "location": "Bengaluru • Remote possible",
+    "salaryMin": 6,
+    "salaryMax": 18
+  },
+  {
+    "id": 54,
+    "name": "Aircampus",
+    "desc": "Redefining college education to guarantee placement",
+    "employees": "1-10 employees",
+    "image": "naukri/aircampus.png",
+    "job": "Seeking a JavaScript Mentor, Trainer & Startup Hustler - (Extraordinair Developer & Mentor)",
+    "location": "Bengaluru • Remote possible",
+    "salaryMin": 5,
+    "salaryMax": 18
+  }
+]
